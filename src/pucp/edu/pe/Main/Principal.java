@@ -14,6 +14,7 @@ public class Principal {
         System.out.println("Hola mundo...!");
         System.out.println("Hola Makito...");
         System.out.println("Hola Kiara");
+        System.out.println("Hola pescados");
     }
     
 }
